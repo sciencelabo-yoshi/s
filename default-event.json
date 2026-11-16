@@ -1,0 +1,80 @@
+{
+  "id": "2026",
+  "title": "京都 班別学習",
+  "date": "2026-12-08",
+  "weather": "雨天決行",
+  "meeting": "JR京都駅 中央口（東側）",
+  "meetTime": "09:15",
+  "depart": "09:30",
+  "finishPlace": "京都駅",
+  "finishStart": "15:00",
+  "finishEnd": "15:30",
+  "activityNote": "昼食は班で相談してとります。",
+  "areaA": "金閣寺方面",
+  "areaB": "清水寺方面",
+  "road": "烏丸通り",
+  "groupCount": 2,
+  "purpose": "錦秋の京都の寺社や旧跡を訪ね、実際に歩き、本物を見て千年の都の歴史や文化を実感し、探究します。\n世界遺産「古都京都の文化財」の成り立ちを知り、伝統的価値と意義を学びます。",
+  "teachers": [
+    "教員A",
+    "教員B"
+  ],
+  "checkpoints": [
+    {
+      "id": 0,
+      "name": "金閣寺",
+      "open": "10:00",
+      "close": "11:00",
+      "area": "金閣寺",
+      "teacher": ""
+    },
+    {
+      "id": 1,
+      "name": "清水寺",
+      "open": "10:00",
+      "close": "11:00",
+      "area": "清水寺",
+      "teacher": ""
+    },
+    {
+      "id": 2,
+      "name": "北野天満宮",
+      "open": "12:30",
+      "close": "13:30",
+      "area": "金閣寺",
+      "teacher": ""
+    },
+    {
+      "id": 3,
+      "name": "平安神宮",
+      "open": "12:30",
+      "close": "13:30",
+      "area": "清水寺",
+      "teacher": ""
+    },
+    {
+      "id": 4,
+      "name": "二条城",
+      "open": "13:30",
+      "close": "14:30",
+      "area": "金閣寺",
+      "teacher": ""
+    },
+    {
+      "id": 5,
+      "name": "八坂神宮",
+      "open": "13:30",
+      "close": "14:30",
+      "area": "清水寺",
+      "teacher": ""
+    },
+    {
+      "id": 6,
+      "name": "京都駅",
+      "open": "14:30",
+      "close": "",
+      "area": "all",
+      "teacher": ""
+    }
+  ]
+}
